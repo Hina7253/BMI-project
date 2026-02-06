@@ -38,3 +38,13 @@ BMICompleteProject/
 ### 1️⃣ Clone the repository
 ```bash
 https://github.com/Hina7253/BMI-project.git
+
+Run Backend
+Open the backend folder in IntelliJ
+Run the main application file
+---
+
+Run Frontend
+Open the frontend folder in VS Code
+Open index.html in browser
+---
