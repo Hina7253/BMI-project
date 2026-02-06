@@ -30,3 +30,11 @@ BMICompleteProject/
 │
 ├── frontend/ # Frontend source code
 └── backend/ # Backend source code
+
+---
+
+## ▶️ How to Run the Project
+
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/USERNAME/BMICompleteProject.git
