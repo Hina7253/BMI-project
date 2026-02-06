@@ -37,4 +37,4 @@ BMICompleteProject/
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/USERNAME/BMICompleteProject.git
+https://github.com/Hina7253/BMI-project.git
