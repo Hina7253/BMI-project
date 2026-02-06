@@ -26,4 +26,7 @@ A simple **Full Stack BMI (Body Mass Index) Calculator** application that allows
 ---
 
 ## 📁 Project Structure
-
+BMICompleteProject/
+│
+├── frontend/ # Frontend source code
+└── backend/ # Backend source code
