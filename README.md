@@ -8,7 +8,7 @@ A simple **Full Stack BMI (Body Mass Index) Calculator** application that allows
 - Calculate BMI using height and weight
 - User-friendly interface
 - Backend logic for BMI calculation
-
+- Clean separation of frontend and backend
 
 ---
 
